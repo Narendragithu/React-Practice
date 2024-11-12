@@ -1,1 +1,1 @@
-React Practices
+CRUD OPERATIONS
