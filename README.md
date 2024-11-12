@@ -1,2 +1,1 @@
-# React-Practice
-react project deployment
+React Practices
